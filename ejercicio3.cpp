@@ -8,7 +8,7 @@ S o N.
 
 using namespace std;
 
-int main(int argc, char const *argv[])
+int solicitarNumeros()
 {
     char respuesta;
     do {

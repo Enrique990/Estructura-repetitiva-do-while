@@ -7,12 +7,6 @@ using namespace std;
 
 void showMult();
 
-int main(int argc, char const *argv[])
-{
-    showMult();
-    return 0;
-}
-
 void showMult()
 {
     for(int i = 15; i<=45; i++){

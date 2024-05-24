@@ -4,7 +4,8 @@ mientras sean distintos de cero.*/
 #include <iostream>
 #include <string>
 using namespace std;
-int main(int argc, char const *argv[])
+
+int sumaImpares()
 {
     int num, suma = 0;
     cout << "ingresa un numero:";
